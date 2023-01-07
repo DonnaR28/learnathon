@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Yummy
-Template URL: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+#Vision Kids
+this website is called vision kids, which is a startup to help kids in need.
